@@ -151,7 +151,7 @@
 }
 
 .line {
-  background: url("/img/deps01_line.png") no-repeat;
+  background: url("../img/deps01_line.png") no-repeat;
   width: 4px !important;
   background-position: center;
 }
@@ -176,7 +176,7 @@ main .main_inner {
 }
 
 #deps01 {
-  background: url("/img/deps01_bg.png") no-repeat;
+  background: url("../img/deps01_bg.png") no-repeat;
   background-position: center center;
   background-size: cover;
   width: 100%;
@@ -244,7 +244,7 @@ main .main_inner {
 #deps01 .inner .num_box li:after {
   content: "";
   display: block;
-  background: url("/img/deps01_line.png") no-repeat;
+  background: url("../img/deps01_line.png") no-repeat;
   width: 3px;
   height: 100%;
   position: absolute;
@@ -261,7 +261,7 @@ main .main_inner {
 #deps01 .inner .num_box li .txt p.long:after {
   content: "";
   display: block;
-  background: url("/img/deps02_border_line.png");
+  background: url("../img/deps02_border_line.png");
   width: 440px;
   height: 15px;
   position: absolute;
@@ -272,7 +272,7 @@ main .main_inner {
 #deps01 .inner .num_box li .txt p.long2:after {
   content: "";
   display: block;
-  background: url("/img/deps02_border_line.png");
+  background: url("../img/deps02_border_line.png");
   width: 460px;
   height: 15px;
   position: absolute;
@@ -283,7 +283,7 @@ main .main_inner {
 #deps01 .inner .num_box li .txt p.long3:after {
   content: "";
   display: block;
-  background: url("/img/deps02_border_line.png");
+  background: url("../img/deps02_border_line.png");
   width: 380px;
   height: 15px;
   position: absolute;
@@ -294,7 +294,7 @@ main .main_inner {
 #deps01 .inner .num_box li .txt p.first:after {
   content: "";
   display: block;
-  background: url("/img/deps02_border_line.png");
+  background: url("../img/deps02_border_line.png");
   width: 140px;
   height: 15px;
   position: absolute;
@@ -305,7 +305,7 @@ main .main_inner {
 #deps01 .inner .num_box li .txt p.first2:after {
   content: "";
   display: block;
-  background: url("/img/deps02_border_line.png");
+  background: url("../img/deps02_border_line.png");
   width: 250px;
   height: 15px;
   position: absolute;
@@ -316,7 +316,7 @@ main .main_inner {
 #deps01 .inner .num_box li .txt p:after {
   content: "";
   display: block;
-  background: url("/img/deps02_border_line.png");
+  background: url("../img/deps02_border_line.png");
   width: 100%;
   height: 15px;
   position: absolute;
@@ -376,7 +376,7 @@ main .main_inner {
 }
 
 #deps02 {
-  background: url("/img/deps02_bg.png") no-repeat;
+  background: url("../img/deps02_bg.png") no-repeat;
   background-position: center center;
   background-size: cover;
   width: 100%;
@@ -455,7 +455,7 @@ main .main_inner {
   margin: 10% 0 0;
 }
 #deps03 .deps03_bg01 {
-  background: url("/img/deps03_bg01.png") no-repeat;
+  background: url("../img/deps03_bg01.png") no-repeat;
   background-position: center center;
   background-size: cover;
   width: 100%;
@@ -509,7 +509,7 @@ main .main_inner {
   max-width: 800px;
 }
 #deps03 .deps03_bg02 {
-  background: url("/img/deps03_bg02.png") no-repeat;
+  background: url("../img/deps03_bg02.png") no-repeat;
   background-position: center center;
   background-size: cover;
   width: 100%;
@@ -643,7 +643,7 @@ main .main_inner {
 }
 
 #deps05 {
-  background: url("/img/deps05_bg.png") no-repeat;
+  background: url("../img/deps05_bg.png") no-repeat;
   background-position: center center;
   background-size: cover;
   width: 100%;
@@ -774,7 +774,7 @@ main .main_inner {
 }
 
 #deps07 {
-  background: url("/img/deps07_bg.png") no-repeat;
+  background: url("../img/deps07_bg.png") no-repeat;
   background-position: center center;
   background-size: cover;
   width: 100%;
@@ -814,7 +814,7 @@ main .main_inner {
 }
 
 #deps08 .inner .deps08_bg01 {
-  background: url("/img/deps08_bg.png") no-repeat;
+  background: url("../img/deps08_bg.png") no-repeat;
   background-position: center 100px;
   background-size: 100%;
   width: 100%;
@@ -916,7 +916,7 @@ main .main_inner {
 }
 
 #deps09 .deps09_bg01 {
-  background: url("/img/deps09_bg.png") no-repeat;
+  background: url("../img/deps09_bg.png") no-repeat;
   background-position: center center;
   background-size: cover;
   width: 100%;
@@ -1014,7 +1014,7 @@ main .main_inner {
 }
 
 #deps10 {
-  background: url("/img/deps10_bg.png") no-repeat;
+  background: url("../img/deps10_bg.png") no-repeat;
   background-position: center center;
   background-size: cover;
   width: 100%;
@@ -1071,22 +1071,22 @@ main .main_inner {
   padding: 2%;
 }
 #deps10 .inner .category_area ul li.th1 {
-  background: url("/img/deps10_category01.png") no-repeat;
+  background: url("../img/deps10_category01.png") no-repeat;
   color: #232323;
 }
 #deps10 .inner .category_area ul li.th2 {
-  background: url("/img/deps10_category02.png") no-repeat;
+  background: url("../img/deps10_category02.png") no-repeat;
 }
 #deps10 .inner .category_area ul li.th3 {
-  background: url("/img/deps10_category03.png") no-repeat;
+  background: url("../img/deps10_category03.png") no-repeat;
   color: #232323;
 }
 #deps10 .inner .category_area ul li.th4 {
-  background: url("/img/deps10_category04.png") no-repeat;
+  background: url("../img/deps10_category04.png") no-repeat;
 }
 
 #deps11 {
-  background: url("/img/deps11_bg.png") no-repeat;
+  background: url("../img/deps11_bg.png") no-repeat;
   background-position: center center;
   background-size: cover;
   width: 100%;
@@ -1573,7 +1573,7 @@ main .main_inner {
   display: flex;
   justify-content: space-between;
   padding: 100px 0;
-  background: url("/img/deps13_bg01.png"), #FCA046;
+  background: url("../img/deps13_bg01.png"), #FCA046;
   background-position: top left, right;
   background-size: 50% 100%, 50% auto;
   background-repeat: no-repeat;
@@ -1698,7 +1698,7 @@ main .main_inner {
 }
 
 #deps15 {
-  background: url("/img/deps15_bg.png") no-repeat #fff;
+  background: url("../img/deps15_bg.png") no-repeat #fff;
   background-position: center center;
   background-size: cover;
   width: 100%;
@@ -1767,7 +1767,7 @@ main .main_inner {
 #deps15 .founded li:after {
   content: "";
   display: block;
-  background: url("/img/deps15_icon.png") no-repeat;
+  background: url("../img/deps15_icon.png") no-repeat;
   width: 55px;
   height: 60px;
   position: absolute;
@@ -1780,7 +1780,7 @@ main .main_inner {
 }
 
 #deps16 {
-  background: url("/img/deps16_bg.png") no-repeat #fff;
+  background: url("../img/deps16_bg.png") no-repeat #fff;
   background-position: center center;
   background-size: cover;
   width: 100%;
@@ -2018,7 +2018,7 @@ main .main_inner {
     max-width: 600px;
   }
   #deps08 .inner .deps08_bg01 {
-    background: url("/img/deps08_bg2.png") no-repeat;
+    background: url("../img/deps08_bg2.png") no-repeat;
     background-position: center 100px;
     background-size: 100%;
     width: 100%;
@@ -2521,7 +2521,7 @@ main .main_inner {
     font-size: 60px;
   }
   #deps08 .inner .deps08_bg01 {
-    background: url("/img/deps08_bg3.png") no-repeat;
+    background: url("../img/deps08_bg3.png") no-repeat;
     background-position: center bottom;
     background-size: 100%;
     width: 100%;
