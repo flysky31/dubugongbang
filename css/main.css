@@ -1101,6 +1101,10 @@ main .main_inner {
 }
 #deps11 .inner .swiper01 .mySwiper2 {
   margin: 0 45px 0 0;
+  width:45%;
+}
+#deps11 .inner .swiper01 .mySwiper1 {
+  width:55%;
 }
 #deps11 .inner .swiper01 .mySwiper1 .title {
   font-family: "KBO-Dia-Gothic_medium";
@@ -1159,6 +1163,10 @@ main .main_inner {
 }
 #deps11 .inner .swiper02 .mySwiper3 {
   margin: 0 0 0 45px;
+  width:45%;
+}
+#deps11 .inner .swiper02 .mySwiper4 {
+  width:55%;
 }
 #deps11 .inner .swiper02 .mySwiper4 .title {
   font-family: "KBO-Dia-Gothic_medium";
@@ -1221,6 +1229,10 @@ main .main_inner {
 #deps11 .inner .swiper03 .mySwiper5 .title {
   font-family: "KBO-Dia-Gothic_medium";
   margin: 0 0 15% 0;
+  width:45%;
+}
+#deps11 .inner .swiper02 .mySwiper6{
+  width:55%;
 }
 #deps11 .inner .swiper03 .mySwiper5 small {
   color: #FF4E00;
