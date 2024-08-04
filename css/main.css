@@ -2648,9 +2648,11 @@ main .main_inner {
   }
   #deps11 .inner .swiper04 .mySwiper7 {
     margin: 50px 0 0;
+    wudth:45%;
   }
   #deps11 .inner .swiper04 .mySwiper8 {
     margin: 50px 0 0;
+    width:55%;
   }
   #deps14 .deps14_bg01 {
     height: 350px;
