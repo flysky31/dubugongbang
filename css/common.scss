@@ -18,7 +18,7 @@
     width: 100%;
 }
  .arrow{
-    background: url("/img/arrow_icon.png")no-repeat;
+    background: url("../img/arrow_icon.png")no-repeat;
     background-size: 14px 9px;
     width: 14px;
     height: 9px;
@@ -27,7 +27,7 @@
  }
 
 select{
-    background: url("/img/select_arrow.png")no-repeat #fff;
+    background: url("../img/select_arrow.png")no-repeat #fff;
     background-size: 12px 7px;
     background-position: 90% 25px;    
     display: inline-block;
