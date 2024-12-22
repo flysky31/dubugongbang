@@ -1233,7 +1233,7 @@ main .main_inner {
 #deps11 .inner .swiper03 .mySwiper5 .title {
   font-family: "KBO-Dia-Gothic_medium";
   margin: 0 0 15% 0;
-  width:45%;
+/*   width:45%; */
 }
 
 #deps11 .inner .swiper03 .mySwiper5 small {
